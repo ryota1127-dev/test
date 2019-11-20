@@ -2,3 +2,6 @@
 研修內テスト
 
 # ikkaime
+#second
+iwata suzuki 
+
